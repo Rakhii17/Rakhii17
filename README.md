@@ -22,7 +22,7 @@ Hey! this is Rakhi 👋
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DFFB3,100:00FFE1&height=2"/>
 </p>
 
-## 🧠 Skills & Tools
+## 🧠 PROGRAMMING LANGUAGAES
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Core_Logic-00FFE1?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-Interactivity-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
