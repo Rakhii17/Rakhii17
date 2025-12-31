@@ -1,35 +1,15 @@
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono
-&size=26
-&pause=1200
-&color=2DFFB3
-&center=true
-&vCenter=true
-&width=520
-&cursor=▋
-&lines=Hey+This+Is+Rakhi;Building+With+Code+Every+Day"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=2DFFB3&center=true&vCenter=true&width=520&cursor=▋&lines=Hey+This+Is+Rakhi;Building+With+Code+Every+Day" />
 </p>
 
- 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono
-&size=28
-&pause=900
-&color=00FFE1
-&center=true
-&vCenter=true
-&width=700
-&cursor=▋
-&lines=💻+Turning+curiosity+into+code;🎓+Committed+to+learning+%7C+Ready+to+build"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00FFE1&center=true&vCenter=true&width=700&cursor=▋&lines=%F0%9F%92%BB+Turning+curiosity+into+code;%F0%9F%8E%93+Committed+to+learning+%7C+Ready+to+build" />
 </p>
 
 ______________________________________________________________________________________________________________________________________________________
  
-📌Skills
+📌Skills 
+
 ## 📊 Skill Levels
 
 
@@ -51,11 +31,11 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 🐍 Python Projects
-<p> <a href="https://github.com/YOUR_USERNAME/library_inventory_manager"> <img src="https://img.shields.io/badge/Library_Inventory_Manager-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a> <a href="https://github.com/YOUR_USERNAME/gradebook_analayzer"> <img src="https://img.shields.io/badge/Gradebook_Analyzer-Python-4CAF50?style=for-the-badge&logo=python&logoColor=white"> </a> <a href="https://github.com/YOUR_USERNAME/python"> <img src="https://img.shields.io/badge/Python_Practice-Repo-2DFFB3?style=for-the-badge&logo=python&logoColor=black"> </a> </p>
+<p> <a href="https://github.com/Rakhii17/library_inventory_manager"> <img src="https://img.shields.io/badge/Library_Inventory_Manager-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a> <a href="https://github.com/Rakhii17/gradebook_analayzer"> <img src="https://img.shields.io/badge/Gradebook_Analyzer-Python-4CAF50?style=for-the-badge&logo=python&logoColor=white"> </a> <a href="https://github.com/Rakhii17/python"> <img src="https://img.shields.io/badge/Python_Practice-Repo-2DFFB3?style=for-the-badge&logo=python&logoColor=black"> </a> </p>
 
 🌐 Web Development (HTML / CSS / JS)
-<p> <a href="https://github.com/YOUR_USERNAME/webassign-4"> <img src="https://img.shields.io/badge/Web_Assign_4-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </a> <a href="https://github.com/YOUR_USERNAME/webcasptron"> <img src="https://img.shields.io/badge/Web_Casptron-CSS-2962FF?style=for-the-badge&logo=css3&logoColor=white"> </a> <a href="https://github.com/YOUR_USERNAME/portfolio-with-css"> <img src="https://img.shields.io/badge/Portfolio_with_CSS-CSS-82B1FF?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/YOUR_USERNAME/csfcportfolio"> <img src="https://img.shields.io/badge/CSFC_Portfolio-CSS-B39DDB?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/YOUR_USERNAME/Portfoliowithcss"> <img src="https://img.shields.io/badge/Portfolio_with_CSS_v2-CSS-64B5F6?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/YOUR_USERNAME/MY-PORTFOLIO"> <img src="https://img.shields.io/badge/My_Portfolio-HTML-FF7043?style=for-the-badge&logo=html5&logoColor=white"> </a> </p> 
+<p> <a href="https://github.com/Rakhii17/webassign-4"> <img src="https://img.shields.io/badge/Web_Assign_4-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </a> <a href="https://github.com/Rakhii17/webcasptron"> <img src="https://img.shields.io/badge/Web_Casptron-CSS-2962FF?style=for-the-badge&logo=css3&logoColor=white"> </a> <a href="https://github.com/Rakhii17/portfolio-with-css"> <img src="https://img.shields.io/badge/Portfolio_with_CSS-CSS-82B1FF?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/Rakhii17/csfcportfolio"> <img src="https://img.shields.io/badge/CSFC_Portfolio-CSS-B39DDB?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/Rakhii17/Portfoliowithcss"> <img src="https://img.shields.io/badge/Portfolio_with_CSS_v2-CSS-64B5F6?style=for-the-badge&logo=css3&logoColor=black"> </a> <a href="https://github.com/YOUR_USERNAME/MY-PORTFOLIO"> <img src="https://img.shields.io/badge/My_Portfolio-HTML-FF7043?style=for-the-badge&logo=html5&logoColor=white"> </a> </p> 
 
 🐧 Linux / Shell
-<p> <a href="https://github.com/YOUR_USERNAME/linux_shellassignment"> <img src="https://img.shields.io/badge/Linux_Shell_Assignment-Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a> </p>
+<p> <a href="https://github.com/Rakhii17/linux_shellassignment"> <img src="https://img.shields.io/badge/Linux_Shell_Assignment-Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"> </a> </p>
 ______________________________________________________________________________________________________________________________________________________
