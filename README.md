@@ -1,7 +1,7 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=2DFFB3&center=true&vCenter=true&width=620&cursor=▋&lines=Hey%2C+This+Is+Rakhi;Building+With+Code+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=HEY THIS IS RAKHI..." />
 </p>
 
 <p align="center">
