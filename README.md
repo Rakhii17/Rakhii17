@@ -1,12 +1,14 @@
  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=HEY THIS IS RAKHI..." />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00FFE1&center=true&vCenter=true&width=760&cursor=▋&lines=Turning+Curiosity+Into+Code;Committed+to+Learning+%7C+Ready+to+Build" />
-</p>
+
+Hey! this is Rakhi 👋
+
+💻 Turning curiosity into code 🎓Committed to learning | Ready to build.
+
+📌Skills
+
+🔧 | working with Python for logic building | ⚙️ | HTML/CSS for creating simple, clean web interfaces|
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFE1,100:7C7CFF&height=2"/>
