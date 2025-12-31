@@ -4,7 +4,8 @@
 
 Hey! this is Rakhi 👋
 
-💻 Turning curiosity into code 🎓Committed to learning | Ready to build.
+💻 Turning curiosity into code 
+🎓 Committed to learning | Ready to build.
 
 📌Skills
 
