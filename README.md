@@ -15,7 +15,7 @@ Hey! this is Rakhi 👋
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFE1,100:7C7CFF&height=2"/>
 </p>
 
-## 👩‍💻 About Me
+
 
  
 <p align="center">
